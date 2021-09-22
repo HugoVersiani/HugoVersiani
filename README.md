@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou o Hugo.
 - 👀 Sou interessado em várias coisas, gosto de desenhar e gosto de plantas, além de tecnologia, claro!
-- 🌱 Atualmente estou aprendendo o básico para desenvolvimento web. HTML, CSS e JS.
+- 🌱 Atualmente sou estagiário de desenvolvimento web!
 - 📫 Você pode entrar em contato comigo através de hugoversiani@live.com.
 
 <!---
