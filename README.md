@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou o Hugo.
-- 👀 Sou interessado em várias coisas, gosto de desenhar e gosto de plantas, além de tecnologia, claro!
-- 🌱 Atualmente sou Programador Web, utilizo principalmente PHP e JavaSCript!
+- 👀 Sou interessado em várias coisas, gosto de HQs e gosto de plantas, além de tecnologia, claro!
+- 🌱 Atualmente sou Programador Web, utilizo principalmente PHP/Laravel e JavaSCript!
 - 📫 Você pode entrar em contato comigo através de hugoversiani@live.com.
 
 <!---
